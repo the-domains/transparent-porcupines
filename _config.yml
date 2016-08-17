@@ -6,9 +6,9 @@ color:
   saturation: 0.959776284173131
   rhythmicContrast: 0.7679491171147674
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: transparent porcupines
